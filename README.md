@@ -41,8 +41,3 @@ The project is designed to demonstrate **Java fundamentals, object-oriented prog
    - Displays recent transactions
 
 ---
-
-## ▶️ How to Run the Project
-1. Clone the repository:
-   ```bash
-   git clone <your-github-repo-link>
